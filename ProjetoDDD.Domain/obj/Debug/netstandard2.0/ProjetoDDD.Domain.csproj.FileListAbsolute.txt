@@ -1,0 +1,8 @@
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netstandard2.0\ProjetoDDD.Domain.deps.json
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netstandard2.0\ProjetoDDD.Domain.dll
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netstandard2.0\ProjetoDDD.Domain.pdb
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.csproj.CoreCompileInputs.cache
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.AssemblyInfoInputs.cache
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.AssemblyInfo.cs
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.dll
+D:\tavio\projetos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.pdb
